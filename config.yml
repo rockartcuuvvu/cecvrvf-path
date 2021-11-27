@@ -6,5 +6,11 @@ steps:
   - link: 'https://lab.github.com'
     title: Check out Learning Lab for more courses!
     description: >-
-      There are many more courses available on Learning Lab for you to check
-      out.
+      There are makkopoiiiny more courses available on Learning Lab for you to
+      check out.
+  - title: New step
+    actions:
+      - type: createIssue
+        title: A new issue
+        body: a-response-file.md
+    description: Kooooko
